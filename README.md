@@ -1,11 +1,11 @@
 # Hey There, I'm Rachel 
 
-Product builder creating AI enabled marketplaces, SEO platforms, and data systems.
+Product builder creating marketplaces, SEO platforms, and data systems.
 
 ## What I focus on
 - AI-enabled product workflows
 - Marketplace and search experiences
-- SEO architecture for large-scale websites
+- SEO architecture 
 - Product analytics and experimentation
 - Platform strategy and technical product development
 
