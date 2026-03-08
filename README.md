@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hey There, I'm Rachel 
 
-<!--
-**rachelstats-stack/rachelstats-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Product builder creating AI enabled marketplaces, SEO platforms, and data systems.
 
-Here are some ideas to get you started:
+## What I focus on
+- AI-enabled product workflows
+- Marketplace and search experiences
+- SEO architecture for large-scale websites
+- Product analytics and experimentation
+- Platform strategy and technical product development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured work
+I'm using GitHub to build and share practical product-focused projects, including:
+- AI enablement for PM workflows, anything that will make my life easier
+- marketplaces and consumer products
+- product analytics frameworks
+
+## Currently building
+- An AI Product Manager Toolkit
+- Marketplace SEO architecture documentation
+- Product strategy and workflow templates
+
+## Connect with me
+- LinkedIn: https://www.linkedin.com/in/rachelstats/
+- Protfolio: https://rachelstats.com/
